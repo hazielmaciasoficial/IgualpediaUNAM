@@ -1,0 +1,212 @@
+body {
+  background-color: aliceblue !important;
+}
+
+.title2 {
+  margin: -7rem 0 0 8rem;
+  color: black;
+}
+
+.introduccion4 {
+  height: 90vh;
+}
+
+.title,
+.subtitle {
+  margin: 10rem 0 0 15%;
+  color: black;
+  font-family: "Arimo", sans-serif;
+  font-weight: 900;
+  font-size: 3.5vw;
+}
+
+.subtitle21 {
+  font-family: "Heebo", sans-serif;
+  font-weight: 400;
+  font-size: 1.5vw;
+  margin-left: 15%;
+  margin-top: -0.2rem;
+}
+
+.subtitle2 {
+  font-family: "Heebo", sans-serif;
+  font-weight: 600;
+  font-size: 1.5vw;
+  margin: 10rem 50% 0 10%;
+}
+
+.positionnot {
+  margin: 2rem 50% 0 15%;
+}
+
+.positionnot2 {
+  margin: 2rem 8rem 0 55%;
+}
+
+.positionsub {
+  margin: 1rem 50% 0 15% !important;
+}
+
+.positionsub2 {
+  margin: 1rem 8rem 0 55% !important;
+}
+
+.noticia {
+  margin-bottom: 6rem;
+}
+
+.positionnoticias {
+  position: absolute;
+  width: 8rem !important;
+  top: 30rem;
+  left: 9rem;
+}
+
+.positionnoticias2 {
+  position: absolute;
+  width: 8rem !important;
+  top: 55rem;
+  left: 52%;
+}
+
+.positionnoticias3 {
+  position: absolute;
+  width: 8rem !important;
+  top: 75rem;
+  left: 9rem;
+}
+
+.positionnoticias4 {
+  position: absolute;
+  width: 8rem !important;
+  top: 98rem;
+  left: 52%;
+}
+
+.positionnoticias5 {
+  position: absolute;
+  width: 8rem !important;
+  top: 116rem;
+  left: 9rem;
+}
+
+.img1 {
+  width: 35%;
+  margin-left: 55%;
+  margin-top: -14rem;
+}
+
+.img11 {
+  width: 35%;
+  margin-left: 55%;
+  margin-top: -12rem;
+}
+
+.img2 {
+  width: 35%;
+  margin-left: 15%;
+  margin-top: -20rem;
+}
+
+.subtitle2-1 {
+  font-family: "Heebo", sans-serif;
+  font-weight: 600;
+  font-size: 1.5vw;
+  margin: 0rem 5rem 0 56%;
+}
+
+.subtitle2-2 {
+  font-family: "Heebo", sans-serif;
+  font-weight: 600;
+  font-size: 1.5vw;
+  margin: 0rem 50% 0 10%;
+}
+
+.justify {
+  text-align: justify;
+}
+
+.subtitle3-1 {
+  font-family: "Heebo", sans-serif;
+  font-weight: 300;
+  font-size: 1.5vw;
+  margin: 0.5rem 7rem 0 56%;
+}
+
+.subtitle3 {
+  font-family: "Heebo", sans-serif;
+  font-weight: 300;
+  font-size: 1.5vw;
+  margin: 0.5rem 50% 0 10%;
+}
+
+h3 {
+  text-align: justify;
+}
+
+.btn-article {
+  border-radius: 1rem;
+  background-color: #ff788f;
+  padding: 0.7rem;
+  width: 10rem;
+  text-align: center;
+  margin-left: 2rem;
+}
+
+.btn-article:hover {
+  transition: 0.4s;
+  color: white;
+  background-color: #d6909c;
+}
+
+.positionver {
+  position: absolute;
+  top: 32vw;
+  left: 8%;
+  width: 8rem;
+}
+
+.positionver2 {
+  position: absolute;
+  top: 79vw;
+  left: 53%;
+  width: 8rem;
+}
+
+.positionver4 {
+  position: absolute;
+  top: 165vw;
+  left: 53%;
+  width: 8rem;
+}
+
+.heroimage-index2 {
+  margin: -18rem 0 0 55%;
+  width: 35%;
+  height: 85%;
+}
+
+.heroimage-index3 {
+  margin: -23rem 0 0 5%;
+  width: 35%;
+  height: 85%;
+}
+
+.heroimage-index3-1 {
+  margin: -25rem 0 0 9%;
+  width: 35%;
+  height: 85%;
+}
+
+.heroimage-index4 {
+  margin: -25rem 0 0 59%;
+  width: 35%;
+  height: 85%;
+}
+
+.positionver3 {
+  position: absolute;
+  top: 122.5vw;
+  left: 8%;
+  width: 8rem;
+}

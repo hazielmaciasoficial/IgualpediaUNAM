@@ -1,0 +1,75 @@
+.sub1 {
+  text-align: justify;
+}
+
+.mision {
+  width: 35%;
+  height: 35%;
+}
+
+@media only screen and (min-width: 1100px) {
+  .mision {
+    margin: -20rem 0 0 55%;
+    width: 35%;
+    height: 85%;
+  }
+
+  .confiable {
+    margin: -40% 0 0 13%;
+    padding-top: 8rem;
+  }
+
+  .title1,
+  .subtitle1 {
+    margin: 6rem 0 0 55%;
+    color: black;
+    font-family: "Arimo", sans-serif;
+    font-weight: 900;
+    font-size: 3.5vw;
+  }
+
+  .title1 {
+    padding-top: 7rem;
+  }
+
+  .subtitle1 {
+    font-family: "Heebo", sans-serif;
+    font-weight: 300;
+    font-size: 1.5vw;
+    margin: 1.4rem 8rem 0 55%;
+  }
+
+  .title2,
+  .subtitle2 {
+    margin: 0rem 0 0 15%;
+    color: white;
+    font-family: "Arimo", sans-serif;
+    font-weight: 900;
+    font-size: 3.5vw;
+  }
+
+  .title2 {
+    padding-top: 7rem;
+  }
+
+  .subtitle2 {
+    font-family: "Heebo", sans-serif;
+    font-weight: 300;
+    font-size: 1.5vw;
+    margin: 1.4rem 40rem 0 15%;
+  }
+
+  .edu {
+    margin: -20rem 0 0 60%;
+  }
+}
+
+.introduccion1 {
+  background-color: aliceblue;
+  height: 90vh;
+}
+
+.introduccion2 {
+  background-color: #60308e;
+  height: 90vh;
+}
